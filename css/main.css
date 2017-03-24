@@ -51,3 +51,6 @@ blockquote {
 span {
 	font-size: 46px;
 }
+.discover:hover {
+	cursor: pointer;
+}
